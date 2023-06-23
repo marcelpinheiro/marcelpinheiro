@@ -12,7 +12,7 @@ Welcome to my GitHub repository! This repository is dedicated to showcasing my w
 
 [//]:  ![Stats](https://github-readme-stats.vercel.app/api?username=marcelpinheiro&theme=blue-green)![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpinheiro&theme=blue-green)
 
-<a href="https://www.credly.com/badges/f2bd7cdb-c95b-44f5-9e2c-503189b3fd41/public_url" rel="aws" target="_blank">![aws](aws-certified-data-analytics-specialty.png)</a>
+<a href="https://www.credly.com/badges/f2bd7cdb-c95b-44f5-9e2c-503189b3fd41/public_url" target="_blank">![aws](aws-certified-data-analytics-specialty.png)</a>
 
 ## 🌐 Connect with Me
 
