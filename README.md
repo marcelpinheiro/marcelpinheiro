@@ -12,6 +12,7 @@ Welcome to my GitHub repository! This repository is dedicated to showcasing my w
 
 [//]:  ![Stats](https://github-readme-stats.vercel.app/api?username=marcelpinheiro&theme=blue-green)![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpinheiro&theme=blue-green)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f2bd7cdb-c95b-44f5-9e2c-503189b3fd41" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ## 🌐 Connect with Me
 
 You can connect with me on various platforms:
