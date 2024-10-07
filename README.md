@@ -20,6 +20,9 @@ You can connect with me on various platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/marcelpinheiro)
 
+## Check my blog!
+[Malum Blog](https://malum.com.br/wp/)
+
 ## 📄 License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and resources provided here for your own projects.
